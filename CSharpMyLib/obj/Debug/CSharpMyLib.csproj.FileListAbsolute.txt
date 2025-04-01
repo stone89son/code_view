@@ -1,0 +1,204 @@
+D:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe.config
+D:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe
+D:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.pdb
+D:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csprojAssemblyReference.cache
+D:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Components.MessageBoxCustom.MessageBoxCustom.resources
+D:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\DetectEverything.CustomControls.MessageBoxLogin.resources
+D:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.CSharpMyLibMainForm.resources
+D:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Properties.Resources.resources
+D:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.GenerateResource.cache
+D:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CopyComplete
+D:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.exe
+D:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.pdb
+P:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\Images\NG.png
+P:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\Images\OK.png
+P:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\Images\Waiting.gif
+P:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe.config
+P:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe
+P:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.pdb
+P:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.dll
+P:\Projects\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.xml
+P:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csprojAssemblyReference.cache
+P:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Components.MessageBoxCustom.MessageBoxCustom.resources
+P:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\DetectEverything.CustomControls.MessageBoxLogin.resources
+P:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.CSharpMyLibMainForm.resources
+P:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Properties.Resources.resources
+P:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.GenerateResource.cache
+P:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CoreCompileInputs.cache
+P:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CopyComplete
+P:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.exe
+P:\Projects\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.pdb
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Images\NG.png
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Images\OK.png
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Images\Waiting.gif
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe.config
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.pdb
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csprojAssemblyReference.cache
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Components.MessageBoxCustom.MessageBoxCustom.resources
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\DetectEverything.CustomControls.MessageBoxLogin.resources
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.CSharpMyLibMainForm.resources
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Properties.Resources.resources
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.GenerateResource.cache
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CoreCompileInputs.cache
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CopyComplete
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.exe
+F:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.pdb
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Images\NG.png
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Images\OK.png
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Images\Waiting.gif
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe.config
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.pdb
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.dll
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.xml
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csprojAssemblyReference.cache
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Components.MessageBoxCustom.MessageBoxCustom.resources
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\DetectEverything.CustomControls.MessageBoxLogin.resources
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.CSharpMyLibMainForm.resources
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Properties.Resources.resources
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.GenerateResource.cache
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CoreCompileInputs.cache
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CopyComplete
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.exe
+P:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.pdb
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Images\NG.png
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Images\OK.png
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Images\Waiting.gif
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe.config
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.pdb
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csprojAssemblyReference.cache
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Components.MessageBoxCustom.MessageBoxCustom.resources
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\DetectEverything.CustomControls.MessageBoxLogin.resources
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.CSharpMyLibMainForm.resources
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Properties.Resources.resources
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.GenerateResource.cache
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CoreCompileInputs.cache
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CopyComplete
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.exe
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.pdb
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Buffers.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Memory.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Text.Json.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.ValueTuple.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Buffers.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Memory.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Text.Json.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.ValueTuple.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfDataGrid.WinForms.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Data.WinForms.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfInput.WinForms.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfListView.WinForms.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.DataSource.WinForms.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfDataGrid.WinForms.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Data.WinForms.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfListView.WinForms.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\AKASHIRC.AD\Desktop\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Images\NG.png
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Images\OK.png
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Images\Waiting.gif
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe.config
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.pdb
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfDataGrid.WinForms.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Shared.Base.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Buffers.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Memory.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.Text.Encodings.Web.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\System.ValueTuple.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Data.WinForms.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfInput.WinForms.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfListView.WinForms.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.DataSource.WinForms.dll
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfDataGrid.WinForms.xml
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Shared.Base.xml
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Data.WinForms.xml
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Core.WinForms.xml
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfInput.WinForms.xml
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfListView.WinForms.xml
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.DataSource.WinForms.xml
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Components.MessageBoxCustom.MessageBoxCustom.resources
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\DetectEverything.CustomControls.MessageBoxLogin.resources
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.CSharpMyLibMainForm.resources
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Properties.Resources.resources
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.GenerateResource.cache
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CoreCompileInputs.cache
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CopyComplete
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.exe
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.pdb
+D:\Projects\Rakuten\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csprojAssemblyReference.cache
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Images\NG.png
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Images\OK.png
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Images\Waiting.gif
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe.config
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.exe
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\CSharpMyLib.pdb
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfDataGrid.WinForms.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Shared.Base.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\System.Buffers.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\System.Memory.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\System.Text.Encodings.Web.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\System.ValueTuple.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Data.WinForms.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Core.WinForms.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfInput.WinForms.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfListView.WinForms.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.DataSource.WinForms.dll
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfDataGrid.WinForms.xml
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Shared.Base.xml
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Data.WinForms.xml
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.Core.WinForms.xml
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfInput.WinForms.xml
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.SfListView.WinForms.xml
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\bin\Debug\Syncfusion.DataSource.WinForms.xml
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Components.MessageBoxCustom.MessageBoxCustom.resources
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Debug\DetectEverything.CustomControls.MessageBoxLogin.resources
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.CSharpMyLibMainForm.resources
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.Properties.Resources.resources
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.GenerateResource.cache
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CoreCompileInputs.cache
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.csproj.CopyComplete
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.exe
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Debug\CSharpMyLib.pdb

@@ -1,0 +1,7 @@
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Release\CSharpMyLib.csprojAssemblyReference.cache
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Release\CSharpMyLib.Components.MessageBoxCustom.MessageBoxCustom.resources
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Release\DetectEverything.CustomControls.MessageBoxLogin.resources
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Release\CSharpMyLib.CSharpMyLibMainForm.resources
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Release\CSharpMyLib.Properties.Resources.resources
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Release\CSharpMyLib.csproj.GenerateResource.cache
+D:\Projects\Rakuten\Rakuten Hand\CSharpMyLib\CSharpMyLib\obj\Release\CSharpMyLib.csproj.CoreCompileInputs.cache
