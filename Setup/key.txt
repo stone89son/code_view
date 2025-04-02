@@ -1,0 +1,15 @@
+------------------------------------
+https://myprojectonazure.visualstudio.com/setup/_git/setup
+user: 
+stone89son
+pass: 4bvsCVXJaVscK87QLvRorcgCPx2TNC6SKou37igYjh9y5O7uZQdoJQQJ99BDACAAAAAAAAAAAAASAZDO2K92
+------------------------------------
+link download:
+https://www.syncfusion.com/account/downloads/windowsforms
+
+
+Version : 23.1.36
+unlock:
+@32332e302e30W45QO6MdeSpzxPkwK10Fjbx1R4YixCgpoyXukipBNwo=
+key:
+Mzc5MzQ1NUAzMjMzMmUzMDJlMzBUUG0rM3hoaUhORjMwNkRFajljaXZNKzFwdHBSY0xYRHZNYUU1RWpRbjE0PQ==
