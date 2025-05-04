@@ -3,3 +3,5 @@
 
 
 new link key: 7G0AqqTI6b4OqdUzTZXx6pBOXNpjVzouxtz8isBj92tD2X8DKDI8JQQJ99BEACAAAAAAAAAAAAASAZDO3HOl
+
+link: 	url = https://stone89son:7G0AqqTI6b4OqdUzTZXx6pBOXNpjVzouxtz8isBj92tD2X8DKDI8JQQJ99BEACAAAAAAAAAAAAASAZDO3HOl@myprojectonazure.visualstudio.com/AssyCheckerWorkLog/_git/AssyCheckerWorkLog
