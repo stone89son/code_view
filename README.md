@@ -1,6 +1,6 @@
 # code_view
 
-new key : 6qpysw9rpfhmIgCBglZMEaRKhKIEzQb2chzFgMwMXoDUZvLkVr4LJQQJ99BFACAAAAAAAAAAAAASAZDORvSH
+new key : 2SSSVzPM6N9t62ViyCq6gH2ie8XE5JHOVSGnr786WMeOOOPtVCFh3NxdcNJQQJ99BFACAAAAAAAAAAAAASAZDO1iNNNbS
 
 
-link: 	url = https://stone89son:7G0AqqTI6b4OqdUzTZXx6pBOXNpjVzouxtz8isBj92tD2X8DKDI8JQQJ99BEACAAAAAAAAAAAAASAZDO3HOl@myprojectonazure.visualstudio.com/AssyCheckerWorkLog/_git/AssyCheckerWorkLog
+link: 	url = https://stone89son:@myprojectonazure.visualstudio.com/AssyCheckerWorkLog/_git/AssyCheckerWorkLog
