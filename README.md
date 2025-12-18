@@ -1,5 +1,42 @@
 https://gemini.google.com/share/2fca00a5a45d
 
+
+-------------------------------------------
+Hãy viết cho tôi chương trình C# dùng để test sản phẩm trong nhà máy với yêu cầu sau:
+1. Sử dụng ClearScript, C#
+2. C# là ứng dụng host bao gồm phần log thì sẽ sử dụng Richtextbox để in ra log
+3. Phần nhập 進度管理番号, Serial No...
+Phần nhập này sẽ được cấu hình như file như sau:
+{
+label:"進度管理番号",
+name:"trackingNo"
+require: true,
+patternRegex:"...."
+},
+{
+label:"Serial No",
+name:"serialNo"
+require: true,
+patternRegex:"...."
+}
+
+mỗi khi đầu đọc barcode đọc hoàn thành một ô ví dụ 進度管理番号
+thì sẽ gửi sang client clearscript để validate dữ liệu ngay lập tức
+
+vaidate hết các nhập nhập thì sẽ đến bước chạy chương trình test.
+
+4. trong chương trình test thì sẽ định nghĩa TestCase(id,name,=>{
+
+đoạn script....
+
+})
+
+chương trình test có thể hỗ trợ các library  cả crud database, rs232....
+các library này có thể cài đặt được giống như nuget ấy cho tiện lợi
+
+
+
+
 -------------------------------------------
 
 source code:
