@@ -1,5 +1,11 @@
 https://gemini.google.com/share/2fca00a5a45d
 
+WinWaitActive("", "Chrome Legacy Window", "120")
+If WinExists("", "Chrome Legacy Window") Then
+    Send("username{TAB}")
+    Send("password{Enter}")
+EndIf
+
 
 -------------------------------------------
 Hãy viết cho tôi chương trình C# dùng để test sản phẩm trong nhà máy với yêu cầu sau:
