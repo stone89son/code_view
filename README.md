@@ -4,6 +4,7 @@ https://stackoverflow.com/questions/26676658/how-to-authenticate-user-password-p
 
 https://www.zenrows.com/blog/selenium-c-sharp-proxy#how-to-use-a-proxy-in-selenium-csharp
 
+https://chatgpt.com/share/694ff8d1-46a8-8003-982d-d299c1bb9149
 
 
 WinWaitActive("", "Chrome Legacy Window", "120")
