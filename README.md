@@ -12,6 +12,153 @@ If WinExists("", "Chrome Legacy Window") Then
     Send("username{TAB}")
     Send("password{Enter}")
 EndIf
+------------------------------------------
+
+public class CameraProperty
+{
+    public bool AutoFocus { get; set; }
+    public int Focus { get; set; }
+    public double Brightness { get; set; }
+    public double Contrast { get; set; }
+    public double Saturation { get; set; }
+    public double WhiteBalanceBlueU { get; set; }
+    public double BackLight { get; set; }
+    public double Gain { get; set; }
+    public double Exposure { get; set; }
+}
+
+    public static void SetPropertyCamera(VideoCapture
+      videoCapture)
+    {
+        CameraProperty cameraProperties = JsonHelper.GetInitObjectD<CameraProperty>(Constant.CAMERA_PROPERTY_PATH);
+
+        videoCapture.AutoFocus = cameraProperties.AutoFocus;
+        videoCapture.Focus = cameraProperties.Focus;
+        videoCapture.Brightness = cameraProperties.Brightness;
+        videoCapture.Contrast = cameraProperties.Contrast;
+        videoCapture.Saturation = cameraProperties.Saturation;
+        videoCapture.WhiteBalanceBlueU = cameraProperties.WhiteBalanceBlueU;
+        videoCapture.BackLight = cameraProperties.BackLight;
+        videoCapture.Gain = cameraProperties.Gain;
+        videoCapture.Exposure = cameraProperties.Exposure;
+    }
+
+     private void InitCamera()
+ {
+     //Init Camera
+     _capture = new VideoCapture();
+
+     //if (int.TryParse(_initModel.CameraConnectString, out _))
+     //{
+     //    int camIndex = Convert.ToInt32(_initModel.CameraConnectString);
+     //    _capture.Open(camIndex, VideoCaptureAPIs.ANY);
+     //}
+     //else
+     //{
+     //    _capture.Open(_initModel.CameraConnectString);
+     //}
+     _capture.Open(0);
+     ImageProcess.SetPropertyCamera(_capture);
+     if (!_capture.IsOpened())
+     {
+         MessageBox.Show("Please insert Camera");
+     }
+ }
+ private void ReconectCamera()
+ {
+     //Init Camera
+     _capture = new VideoCapture();
+
+     //if (int.TryParse(_initModel.CameraConnectString, out _))
+     //{
+     //    int camIndex = Convert.ToInt32(_initModel.CameraConnectString);
+     //    _capture.Open(camIndex, VideoCaptureAPIs.ANY);
+     //}
+     //else
+     //{
+     //    _capture.Open(_initModel.CameraConnectString);
+     //}
+     _capture.Open(0);
+     ImageProcess.SetPropertyCamera(_capture);
+     if (!_capture.IsOpened())
+     {
+         ReconectCamera();
+         Thread.Sleep(200);
+     }
+     else
+     {
+         rtbStatus.Text = "";
+     }
+ }
+ private int counter;
+ private void bgWorker_DoWork(object sender, DoWorkEventArgs e)
+ {
+     try
+     {
+         if (_capture.IsOpened())
+         {
+             var bgWorkerDowork = (BackgroundWorker)sender;
+
+             while (!bgWorkerDowork.CancellationPending)
+             {
+
+                 if (_capture.Grab())
+                 {
+                     using (var frameMat = _capture.RetrieveMat())
+                     {
+                         while (++counter > 0)
+                         {
+
+                             _capture.Read(frameMat);
+                             if (!frameMat.Empty())
+                             {
+                                 lock (objLock)
+                                 {
+                                     Mat currentFrame = frameMat.Clone();
+                                     Mat dst = new Mat(480, 640, currentFrame.Type());
+                                     currentFrame = currentFrame.Resize(dst.Size(), 0, 0, InterpolationFlags.Lanczos4);
+                                     Cv2.Rotate(currentFrame, currentFrame, RotateFlags.Rotate180);
+                                     _currentFrame = currentFrame;
+                                     //IsExist(_currentFrame);
+                                     // Get rotation matrix for rotating the image around its center in pixel coordinates
+                                     //Point2f center = new Point2f((currentFrame.Cols - 1) / 2, (currentFrame.Rows - 1) / 2);
+                                     // Determine bounding rectangle, center not relevant
+                                     // 640,480
+                                     var frameHsv = BitmapConverter.ToBitmap(currentFrame);
+                                     bgWorkerDowork.ReportProgress(0, frameHsv);
+
+                                 }
+                                 if (counter == 120)
+                                 {
+                                     counter = 0;
+                                     GC.Collect();
+                                 }
+                             }
+                         }
+                     }
+                 }
+                 else
+                 {
+                     //Reconnect
+                     this.Invoke((MethodInvoker)delegate ()
+                     {
+                         rtbStatus.Text = "Reconnecting to camera";
+                         Application.DoEvents();
+                         ReconectCamera();
+                     });
+                 }
+             }
+         }
+         else
+         {
+             MessageBox.Show("カメラをコンピュータに取り付けてください。");
+         }
+     }
+     catch (Exception ex)
+     {
+         //_log.Error(ex.ToString());
+     }
+ }
 
 
 
