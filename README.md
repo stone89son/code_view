@@ -1,5 +1,7 @@
 https://gemini.google.com/share/2fca00a5a45d
 
+https://chatgpt.com/share/695ac4d3-144c-8008-a6ca-827ab097c76b
+
 https://stackoverflow.com/questions/26676658/how-to-authenticate-user-password-proxy-in-c-sharp-selenium-chrome-driver
 
 https://www.zenrows.com/blog/selenium-c-sharp-proxy#how-to-use-a-proxy-in-selenium-csharp
